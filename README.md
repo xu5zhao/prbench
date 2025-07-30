@@ -5,11 +5,11 @@ It contains **1 865 expert‑annotated samples**, grouped into **three core ta
 
 | Task | Purpose | Example Skills Tested |
 |------|---------|-----------------------|
-| **Aspect‑based Summarization (AS)** | Fine‑grained factual extraction from full papers | Identify motivation, methods, results, etc. :contentReference[oaicite:9]{index=9} |
-| **Multi‑Turn Conversation (MT)** | Maintain coherent dialogue across turns | Progressive conceptual understanding, contextual exploration, depth of inquiry :contentReference[oaicite:10]{index=10} |
-| **External Information Comprehension (EIC)** | Incorporate knowledge beyond the paper | Cross‑article reasoning, domain knowledge, retrieval‑augmented QA :contentReference[oaicite:11]{index=11} |
+| **Aspect‑based Summarization (AS)** | Fine‑grained factual extraction from full papers | Identify motivation, methods, results, etc. :contentReference |
+| **Multi‑Turn Conversation (MT)** | Maintain coherent dialogue across turns | Progressive conceptual understanding, contextual exploration, depth of inquiry  |
+| **External Information Comprehension (EIC)** | Incorporate knowledge beyond the paper | Cross‑article reasoning, domain knowledge, retrieval‑augmented QA  |
 
-Evaluation relies on **RLScore**, a rubric‑based *LLM‑as‑a‑Judge* metric that outperforms traditional surface metrics such as ROUGE‑L and BERTScore in correlating with human judgment :contentReference[oaicite:12]{index=12}.
+Evaluation relies on **RLScore**, a rubric‑based *LLM‑as‑a‑Judge* metric that outperforms traditional surface metrics such as ROUGE‑L and BERTScore in correlating with human judgment.
 
 ---
 
@@ -21,5 +21,7 @@ Evaluation relies on **RLScore**, a rubric‑based *LLM‑as‑a‑Judge* metric
 
 ---
 
-## 📁 Repository Structure
+## 📦 Dataset Access
 
+The complete PRBench dataset can be downloaded via the following link:  
+🔗 [Download via OneDrive](https://1drv.ms/f/c/516c3281c092f9dd/EvrH6oB_Z39GmYjPmumKcTMB_dYSNeb6Uc14FuGPYnWYyg?e=oZSNLP)
